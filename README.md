@@ -48,7 +48,7 @@ flutter build apk --split-per-abi
 ### Ana Sayfa
 Ürünlerin grid formatında listelendiği ana sayfa. Mac, iPhone gibi ürünleri göz atabilirsiniz.
 
-![Katalog Listesi](https://raw.githubusercontent.com/xamcar/flutter_katalogu/main/screenshots/home-screen.png)
+![Katalog Listesi](https://github.com/xamcar/flutter_katalogu/blob/main/screenshots/Anasayfa_Arama.png)
 
 ### Sepet Sayfası
 Seçilen ürünlerin görüntülendiği, fiyat özeti ve siparişi tamamla butonunun olduğu sayfa.
