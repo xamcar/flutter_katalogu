@@ -20,7 +20,7 @@ Bu uygulama aşağıdaki özellikleri içerir:
 
 ### 1. Projeyi Klonla
 ```bash
-git clone (https://github.com/xamcar/flutter_katalogu.git)
+git clone https://github.com/xamcar/flutter_katalogu.git
 cd flutter_katalog
 ```
 
