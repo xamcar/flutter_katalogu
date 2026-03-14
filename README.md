@@ -53,16 +53,16 @@ flutter build apk --split-per-abi
 ### Sepet Sayfası
 Seçilen ürünlerin görüntülendiği, fiyat özeti ve siparişi tamamla butonunun olduğu sayfa.
 
-![Sepet](https://raw.githubusercontent.com/xamcar/flutter_katalogu/main/screenshots/cart-screen.png)
+![Sepet](https://github.com/xamcar/flutter_katalogu/blob/main/screenshots/Sepet.png)
 
 ### Ödeme Sayfası
 Adres ve ödeme bilgilerinin girildiği sayfası. Her bölüm açılıp kapanabilir.
 
-![Ödeme Bilgileri](https://raw.githubusercontent.com/xamcar/flutter_katalogu/main/screenshots/payment-screen.png)
+![Ödeme Bilgileri](https://github.com/xamcar/flutter_katalogu/blob/main/screenshots/%C3%96deme.png)
 
 ### Ürün Detay Sayfası
 Seçilen ürünün detaylı bilgilerinin gösterildiği sayfa.
 
-![Ürün Detayı](https://raw.githubusercontent.com/xamcar/flutter_katalogu/main/screenshots/product-detail.png)
+![Ürün Detayı](https://github.com/xamcar/flutter_katalogu/blob/main/screenshots/%C3%9Cr%C3%BCn.png)
 
 
