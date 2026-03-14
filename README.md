@@ -48,23 +48,21 @@ flutter build apk --split-per-abi
 ### Ana Sayfa
 Ürünlerin grid formatında listelendiği ana sayfa. Mac, iPhone gibi ürünleri göz atabilirsiniz.
 
-![Katalog Listesi](screenshots/home-screen.png)
+![Katalog Listesi](https://raw.githubusercontent.com/xamcar/flutter_katalogu/main/screenshots/home-screen.png)
 
 ### Sepet Sayfası
 Seçilen ürünlerin görüntülendiği, fiyat özeti ve siparişi tamamla butonunun olduğu sayfa.
 
-![Sepet](screenshots/cart-screen.png)
+![Sepet](https://raw.githubusercontent.com/xamcar/flutter_katalogu/main/screenshots/cart-screen.png)
 
 ### Ödeme Sayfası
 Adres ve ödeme bilgilerinin girildiği sayfası. Her bölüm açılıp kapanabilir.
 
-![Ödeme Bilgileri](screenshots/payment-screen.png)
+![Ödeme Bilgileri](https://raw.githubusercontent.com/xamcar/flutter_katalogu/main/screenshots/payment-screen.png)
 
 ### Ürün Detay Sayfası
 Seçilen ürünün detaylı bilgilerinin gösterildiği sayfa.
 
-![Ürün Detayı](screenshots/product-detail.png)
+![Ürün Detayı](https://raw.githubusercontent.com/xamcar/flutter_katalogu/main/screenshots/product-detail.png)
 
-## Lisans
 
-Bu proje MIT Lisansı altında dağıtılmaktadır.
